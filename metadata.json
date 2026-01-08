@@ -1,0 +1,7 @@
+{
+  "name": "EcoSwap - Second-Hand Marketplace",
+  "description": "A modern, AI-powered marketplace for reselling pre-loved items. Features smart description generation and automatic categorization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
